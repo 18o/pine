@@ -1,0 +1,9 @@
+[package]
+name = "pine"
+version = "0.1.0"
+authors = ["John <admin@iios.net>"]
+edition = "2018"
+
+
+[dependencies]
+actix-web = "3"
