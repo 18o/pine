@@ -6,4 +6,5 @@ edition = "2018"
 
 
 [dependencies]
-actix-web = "3"
+mio = "0.7"
+log = "0.4.14"
